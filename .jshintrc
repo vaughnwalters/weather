@@ -1,0 +1,13 @@
+{
+  "predef": [ "document", "console", "angular", "jQuery", "require", "alert" ],
+  "esversion": 6,
+  "globalstrict": true,
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "unused": true,
+  "browserify": true,
+  "globals": {
+    "$": true
+  }
+}
