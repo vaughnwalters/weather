@@ -4,7 +4,7 @@
 // build the promises in api.js 
 // when building promises on one module, setting it up so another module can a .then after resolve
 
-// tonight:
+// to do:
 // get weather back
 // parse out to DOM
 // set up new project
